@@ -17,12 +17,10 @@
   descr: "Clients for Windows & Linux developed by Python to detect baseline vulnerabilities. Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. Shiro was used for access control."
   tags:
     - tag: Project Leader
-    - tag: Shiro
 
 - name: Research on Deepfake detection based on improved LSTM
-  descr: "Proposed an LSTM-CNN model to detect the use of Deepfake in short videos by checking the coherence of facial expressions between video frames. We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos.(User detection is disabled due to the update of Douyin)"
-  tags:
-    - tag: PyTorch
+  descr: "Proposed an LSTM-CNN model to detect the use of Deepfake in short videos by checking the coherence of facial expressions between video frames. We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos."
 
 - name: An innovative and privacy-protected integrated maxillofacial surgery smart medical and health care system
-  descr: "You can also set a project without demo link and no tags"
+  descr: "Created a federated blockchain of smart contract technology to fully secure data.\nBuilt patient analysis systems using federated learning.\nEstablished physician follow-up system using WeChat cloud development.
+"
