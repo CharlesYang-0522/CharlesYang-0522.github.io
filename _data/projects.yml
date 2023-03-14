@@ -13,13 +13,24 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Research on Chinese Hate Speech Detection Technology Based on Deep Learning
+  descr: "Introduced a dual-graph convolutional neural network into the hate speech detection task. <br>Using global statistical features to enhance the semantic feature extraction module, so that our model achieves better results. <br>Proposing a set of detailed hate speech labeling standards and provide a multi-category Chinese hate speech dataset containing about 8k comments."
+  tags:
+    - tag: Project in Progress
+    - tag: Project Leader
+
 - name: Baseline configuration checking system
-  descr: "Clients for Windows & Linux developed by Python to detect baseline vulnerabilities. <br>Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. <br>Shiro was used for access control."
+  descr: "Clients for Windows & Linux developed by Python to detect basic <b>baseline vulnerabilities.</b> <br>Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. <br><b>Shiro</b> was used for access control."
   tags:
     - tag: Project Leader
 
 - name: Research on Deepfake detection based on improved LSTM
-  descr: "Proposed an LSTM-CNN model to detect the use of Deepfake in short videos by checking the coherence of facial expressions between video frames. <br>We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos."
+  descr: "Proposed an <b>LSTM-CNN model</b> to detect the use of <b>Deepfake</b> in short videos by checking the coherence of facial expressions between video frames. <br>We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos."
+
+- name: Disk Management Storage System
+  descr: "A system designed to provide efficient and effective management of hard drives in an organization. The main function of the system is to record and track <b>the usage of hard drives</b>, allowing administrators to monitor the use of the drives in projects."
+  tags:
+    - tag: Completed Independently
 
 - name: An innovative and privacy-protected integrated maxillofacial surgery smart medical and health care system
   descr: "Created a federated blockchain of smart contract technology to fully secure data. <br>Built patient analysis systems using federated learning. <br>Established physician follow-up system using WeChat cloud development.
