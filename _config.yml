@@ -14,7 +14,7 @@ baseurl: ""
 username: Charles Yang
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Major in Cyber Security
+typing_text: Birth - Dec. 2000
 # email: Your E-Mail address for the email button.
 email: charlesyang9527@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Fangfei Yang, you can also call me Charles. Currently in my senior year at Sichuan University, major in Cyber Security with an average GPA of 3.42/4, aka 83.5/100, but I got A- to A in many major classes like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. I also participated in some projects, which are shown below. If you are intrested in more details, please check out my <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
+about_me_description: My name is Fangfei Yang, you can also call me Charles. <br>Currently in my senior year at Sichuan University, major in <b>Cyber Security</b> with an average GPA of <b>3.42/4</b>, aka <b>83.5/100</b>. But I got A- to A in many <b>major classes</b> like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. <br>Also participated in some projects, which are shown below. <br>If you are intrested in more details, please check out my <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you are interested in contacting me, please feel free to send me email at charlesyang9527@gmail.com or call +86-18510110522.
+contact_description: If you are interested in contacting me, please feel free to send email to <b>charlesyang9527@gmail.com</b> or call <b>+86-18510110522.</b>
 
 # GITHUB-METADATA
 # Set this to your forked repository

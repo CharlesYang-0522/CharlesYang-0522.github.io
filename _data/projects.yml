@@ -14,13 +14,13 @@
 #     - tag: Node
 
 - name: Baseline configuration checking system
-  descr: "Clients for Windows & Linux developed by Python to detect baseline vulnerabilities. Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. Shiro was used for access control."
+  descr: "Clients for Windows & Linux developed by Python to detect baseline vulnerabilities. <br>Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. <br>Shiro was used for access control."
   tags:
     - tag: Project Leader
 
 - name: Research on Deepfake detection based on improved LSTM
-  descr: "Proposed an LSTM-CNN model to detect the use of Deepfake in short videos by checking the coherence of facial expressions between video frames. We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos."
+  descr: "Proposed an LSTM-CNN model to detect the use of Deepfake in short videos by checking the coherence of facial expressions between video frames. <br>We also provided a program for detecting whether Douyin bloggers are using deepfake in their videos."
 
 - name: An innovative and privacy-protected integrated maxillofacial surgery smart medical and health care system
-  descr: "Created a federated blockchain of smart contract technology to fully secure data.\nBuilt patient analysis systems using federated learning.\nEstablished physician follow-up system using WeChat cloud development.
+  descr: "Created a federated blockchain of smart contract technology to fully secure data. <br>Built patient analysis systems using federated learning. <br>Established physician follow-up system using WeChat cloud development.
 "

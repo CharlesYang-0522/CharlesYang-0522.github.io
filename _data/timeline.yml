@@ -45,9 +45,9 @@
 #   timeline-side: left
 
 - title: Sichuan University
-  title-url: https://ccs.scu.edu.cn/
+  title-url: https://ccs.scu.edu.cn/wlkjen/
   date: Sep 2019 - Present
-  subtitle: B.A. Cyber Security
+  subtitle: B.A. Cyber Security <br> Class Monitor
   timeline-side: left
 
 - title: Shanghai Hangyao Information Technology Co.,ltd
@@ -57,7 +57,7 @@
   timeline-side: right
 
 - title: The High School Affiliated to Renmin University of China
-  title-url: https://www.rdfz.cn/
+  title-url: https://www.rdfz.cn/en/
   date: 2016 - 2019
   subtitle: Senior High Education
   timeline-side: left
