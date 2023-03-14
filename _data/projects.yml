@@ -20,7 +20,7 @@
     - tag: Project Leader
 
 - name: Baseline configuration checking system
-  descr: "Clients for Windows & Linux developed by Python to detect basic <b>baseline vulnerabilities.</b> <br>Server using Springboot + Thymeleaf + Mybatis, Bootstrap as front-end template. <br><b>Shiro</b> was used for access control."
+  descr: "A system used for detecting basic baseline imformation and vulnerabilities on target operating systems. <br>The clients for Windows & Linux developed by Python to check for hardware and operating system information, it can detect shadow users as well. <br>A server was built by Springboot + Thymeleaf + Mybatis to analyze information collected by the client and display on the website. <br>Shiro was used for access control."
   tags:
     - tag: Project Leader
 
