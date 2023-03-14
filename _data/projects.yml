@@ -19,7 +19,7 @@
     - tag: Project in Progress
     - tag: Project Leader
 
-- name: Baseline configuration checking system
+- name: Baseline verification system
   descr: "A system used for detecting basic baseline information and vulnerabilities on target operating systems. <br>The clients for Windows & Linux developed by Python to check for hardware and operating system information, it can detect shadow users as well. <br>A server was built by Springboot + Thymeleaf + Mybatis to analyze information collected by the client and display on the website. <br>Shiro was used for access control."
   tags:
     - tag: Project Leader
