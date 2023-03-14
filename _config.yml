@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Fangfei Yang, you can also call me Charles. \n Currently in my senior year at Sichuan University, major in Cyber Security with an average GPA of 3.42/4, aka 83.5/100, but I got A- to A in many major classes like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. I also participated in some projects, if you are intrested in more details, you can check out my <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
+about_me_description: My name is Fangfei Yang, you can also call me Charles. Currently in my senior year at Sichuan University, major in Cyber Security with an average GPA of 3.42/4, aka 83.5/100, but I got A- to A in many major classes like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. I also participated in some projects, which are shown below. If you are intrested in more details, please check out my <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you are interested in contacting me, please feel free to send me email or call +86-18510110522.
 
 # GITHUB-METADATA
 # Set this to your forked repository

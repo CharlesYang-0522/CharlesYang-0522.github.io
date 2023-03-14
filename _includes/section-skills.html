@@ -1,5 +1,7 @@
 <h1 class="title">{{site.skills_title}}</h1>
 
+
+{% if site.show_skills_card %}
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
@@ -26,3 +28,5 @@
     </div>
   {% endfor %}
 </div>
+{% endif %}
+
