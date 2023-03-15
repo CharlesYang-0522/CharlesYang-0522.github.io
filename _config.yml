@@ -14,7 +14,7 @@ baseurl: ""
 username: Charles Yang
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Major in Cyber Security
+typing_text: Welcome to my site 
 # email: Your E-Mail address for the email button.
 email: charlesyang9527@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Fangfei Yang, a 22-year-old undergraduate student in China, you can also call me Charles. <br>Currently I'm in my senior year at Sichuan University, major in Cyber Security with an average GPA of 3.42/4, aka 83.59/100. <br>But I got A- to A in many major classes like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. <br>I also participated in some projects, which are shown below. <br>If you are intrested in more details, please check out my <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
+about_me_description: My name is Fangfei Yang, a 22-year-old undergraduate student in China, you can also call me Charles. <br>Currently I'm in my senior year at Sichuan University, major in Cyber Security with an average GPA of 3.42/4, aka 83.59/100. <br>But I got A- to A in many major classes like Data Structures and Algorithmic, Discrete Mathematics, Computer Organization and Architecture, etc. <br>I also participated in some projects, which are shown below. <br>If you are intrested in more details, please check out my <a class="highlight-link" href="https://drive.google.com/file/d/1JulVItAphWKogFzdnUup-TTbS9hYyl8q/view?usp=share_link" target="_blank" rel="noreferrer"> CV </a> and <a class="highlight-link" href="https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link" target="_blank" rel="noreferrer"> transcript </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Intern Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1Xt0SkKW4bThDRuKYAkaMdMizP21_B_Iu/view?usp=share_link
+cv_download_link: https://drive.google.com/file/d/1JulVItAphWKogFzdnUup-TTbS9hYyl8q/view?usp=share_link
 
 # PROJECTS SECTION
 # show_projects_card:
